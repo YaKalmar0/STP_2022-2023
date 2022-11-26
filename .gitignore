@@ -1,2 +1,4 @@
 # MacOS derivatives
 .DS_Store
+
+node_modules
